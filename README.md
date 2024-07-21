@@ -15,17 +15,13 @@
 
 ## 🤔 Why
 
-Introduce your plugin! Explain why you made it, why would users choose yours!
+Do you want to keep a local copy of your activity on Farcaster? This plugin will help you sync your Farcaster activity to your Obsidian vault.
 
 ## 🎨 Features
 
 - 📦 Out of the box support.
 - 🚀 Blazingly fast.
 - 💡 You define it.
-
-## 💡 What can you do with it
-
-- Help users to imagine what they can do, show your imagination.
 
 ## 📺 Demos
 
@@ -36,13 +32,6 @@ Introduce your plugin! Explain why you made it, why would users choose yours!
 Perhaps a GIF?
 
 ## 😎 How to install
-
-> [!WARNING]
-> Currently Obsidian Template Plugin is in alpha stage, it wasn't guaranteed to work properly and keep the compatibility with the future versions of itself.
->
-> But it is encouraged to try it out and give feedbacks. If you find and bugs or have any suggestions, please feel free to open an issue on [GitHub](https://github.com/nolebase/obsidian-plugin-template/issues).
-
-Currently, it is a bit hard to install the plugin for now before it is published to the official Obsidian plugin store. Manual downloading and installation is required.
 
 ### Install with beta testing helper [BRAT](https://tfthacker.com/brat-quick-guide) plugin
 
@@ -129,4 +118,5 @@ If you use [`@antfu/ni`](https://github.com/antfu/ni), you can also use the foll
 nr build
 ```
 
-### Written with ♥
+Made with ♥ on Farcaster
+
