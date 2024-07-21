@@ -1,18 +1,5 @@
 # Farcaster Obsidian sync plugin
 
-3. Fill in a URL to your repository. You can replace with `https://github.com/nolebase/obsidian-plugin-template`
-4. Fill in the Why, Features, What can you do with it, Demos, How to install, TODOs, feel free to remove the sections that are not needed.
-5. Replace the name `SomeViewPlugin` and `SomePlugin` with your own plugin name.
-
-## ⚠️ How to publish?
-
-1. Modify the version in the `manifest.json` file.
-2. Modify the version in the `package.json` file.
-3. Push the changes to the repository.
-4. Go to the [Release] page of the repository.
-5. Create a new release with the tag name as the version number.
-6. Sit back and relax, the plugin will be published with CI/CD pipelines automatically.
-
 ## 🤔 Why
 
 Do you want to keep a local copy of your activity on Farcaster? This plugin will help you sync your Farcaster activity to your Obsidian vault.
@@ -30,6 +17,15 @@ Do you want to keep a local copy of your activity on Farcaster? This plugin will
 ### How it looks like
 
 Perhaps a GIF?
+
+## ⚠️ How to publish?
+
+1. Modify the version in the `manifest.json` file.
+2. Modify the version in the `package.json` file.
+3. Push the changes to the repository.
+4. Go to the [Release] page of the repository.
+5. Create a new release with the tag name as the version number.
+6. Sit back and relax, the plugin will be published with CI/CD pipelines automatically.
 
 ## 😎 How to install
 
