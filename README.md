@@ -1,32 +1,5 @@
-# Obsidian Template Plugin
+# Farcaster Obsidian sync plugin
 
-> [!NOTE]
-> This is one of the plugins of the collections of plugins called [Nólëbase Integrations](https://github.com/nolebase/integrations). You can explore the other plugins in the collection in [the official documentation site of Nólëbase Integrations](https://nolebase-integrations.ayaka.io).
-
----
-
-## ⚠️ To you, the plugin developer.
-
-This is a template plugin for you to start developing your own Obsidian plugin. It is a good starting point for you to develop your own plugin. You can clone this repository and start developing your own plugin.
-
-We use the most advanced technologies to develop this plugin, including:
-
-- [TypeScript](https://www.typescriptlang.org/)
-- [unbuild](https://github.com/unjs/unbuild)
-- [eslint](https://eslint.org/)
-
-So everything is configured for you to start developing your own plugin, immediately.
-
-## ⚠️ Before publishing
-
-1. Replace all the `obsidian-plugin-template` with the name of your plugin:
-   1. In the `manifest.json` file.
-   2. In the `package.json` file.
-   3. In the `README.md` file.
-2. Replace all the `Obsidian Template Plugin` with the name of your plugin:
-   1. In the `manifest.json` file.
-   2. In the `package.json` file.
-   3. In the `README.md` file.
 3. Fill in a URL to your repository. You can replace with `https://github.com/nolebase/obsidian-plugin-template`
 4. Fill in the Why, Features, What can you do with it, Demos, How to install, TODOs, feel free to remove the sections that are not needed.
 5. Replace the name `SomeViewPlugin` and `SomePlugin` with your own plugin name.

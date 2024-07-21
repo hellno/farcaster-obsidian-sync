@@ -6,7 +6,7 @@ function sleep(ms: number) {
   return new Promise(resolve => setTimeout(resolve, ms))
 }
 
-class SomeViewPlugin implements PluginValue {
+class FarcasterSyncViewPlugin implements PluginValue {
   private view: EditorView
 
   constructor(view: EditorView) {
@@ -48,9 +48,9 @@ class SomeViewPlugin implements PluginValue {
   }
 }
 
-export default class SomePlugin extends Plugin {
+export default class FarcasterSyncPlugin extends Plugin {
   async onload() {
-    const editorPlugins = ViewPlugin.define(view => new SomeViewPlugin(view))
+    const editorPlugins = ViewPlugin.define(view => new FarcasterSyncViewPlugin(view))
 
     this.registerEditorExtension(editorPlugins)
   }

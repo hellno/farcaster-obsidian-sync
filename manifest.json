@@ -1,10 +1,10 @@
 {
-  "id": "obsidian-plugin-template",
-  "name": "Obsidian Template Plugin",
-  "version": "0.1.0",
+  "id": "farcaster-obsidian-sync",
+  "name": "Farcaster Obsidian sync",
+  "version": "0.0.1",
   "minAppVersion": "1.4.0",
-  "description": "Obsidian Template Plugin",
-  "author": "Nolebase",
-  "authorUrl": "https://github.com/nolebase",
+  "description": "Obsidian Plugin to sync Farcaster activity to your Obsidian vault",
+  "author": "hellno",
+  "authorUrl": "https://github.com/hellno",
   "isDesktopOnly": false
 }

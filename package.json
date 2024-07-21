@@ -1,18 +1,16 @@
 {
-  "name": "obsidian-plugin-template",
+  "name": "farcaster-obsidian-sync",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "packageManager": "pnpm@9.5.0",
-  "description": "Obsidian Template Plugin",
+  "description": "Obsidian Plugin to sync Farcaster activity to your Obsidian vault",
   "author": {
-    "name": "Nólëbase",
-    "email": "nolebase@ayaka.moe",
-    "url": "https://github.com/nolebase"
+    "name": "hellno",
+    "url": "https://github.com/hellno"
   },
   "license": "MIT",
   "keywords": [
-    "nolebase",
-    "nolebase-integration",
+    "farcaster",
     "obsidian",
     "obsidian-plugin"
   ],
